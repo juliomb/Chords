@@ -10,5 +10,5 @@
 #Description
 Simple app to remember guitar and piano chords with images.
 
-**Focus on:** UIStackView, AutoLayout, UIAppearance 
+**Working with:** UIStackView, AutoLayout, UIAppearance 
 
