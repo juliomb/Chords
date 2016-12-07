@@ -8,7 +8,7 @@
 **iOS Deployment Target:** 10.1
 
 #Description
-Simple app to show guitar and piano chords with images.
+Simple app to remember guitar and piano chords with images.
 
 **Focus on:** UIStackView, AutoLayout, UIAppearance 
 
