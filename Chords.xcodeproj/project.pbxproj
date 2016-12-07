@@ -12,6 +12,8 @@
 		8E0D3DD01DD3AF570058799D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3DCE1DD3AF570058799D /* Main.storyboard */; };
 		8E0D3DD21DD3AF570058799D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3DD11DD3AF570058799D /* Assets.xcassets */; };
 		8E0D3DD51DD3AF570058799D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E0D3DD31DD3AF570058799D /* LaunchScreen.storyboard */; };
+		8E0D3DDD1DD3BF440058799D /* GuitarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3DDC1DD3BF440058799D /* GuitarViewController.swift */; };
+		8E0D3DDF1DD3C3350058799D /* PianoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E0D3DDE1DD3C3350058799D /* PianoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8E0D3DD11DD3AF570058799D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E0D3DD41DD3AF570058799D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8E0D3DD61DD3AF570058799D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8E0D3DDC1DD3BF440058799D /* GuitarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GuitarViewController.swift; sourceTree = "<group>"; };
+		8E0D3DDE1DD3C3350058799D /* PianoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PianoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				8E0D3DD11DD3AF570058799D /* Assets.xcassets */,
 				8E0D3DD31DD3AF570058799D /* LaunchScreen.storyboard */,
 				8E0D3DD61DD3AF570058799D /* Info.plist */,
+				8E0D3DDC1DD3BF440058799D /* GuitarViewController.swift */,
+				8E0D3DDE1DD3C3350058799D /* PianoViewController.swift */,
 			);
 			path = Chords;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E0D3DCD1DD3AF570058799D /* ViewController.swift in Sources */,
+				8E0D3DDD1DD3BF440058799D /* GuitarViewController.swift in Sources */,
+				8E0D3DDF1DD3C3350058799D /* PianoViewController.swift in Sources */,
 				8E0D3DCB1DD3AF570058799D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
